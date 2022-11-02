@@ -12,3 +12,6 @@ Assignment 2:
 
 Assignment 3:
  Hands-on on machine learning modeling - data understanding(correlations and plots), data preparation(on titanic dataset, glass dataset), modeling(4 variants of naive bayes, 2 of SVC), evaluation(accuracy, classification_report).
+ 
+Assignment 4:
+ Hands-on on LinearRegression and KMeans clustering(number of cluster selection with elbow method).
