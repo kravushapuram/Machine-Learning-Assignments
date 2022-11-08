@@ -15,3 +15,6 @@ Assignment 3:
  
 Assignment 4:
  Hands-on on LinearRegression and KMeans clustering(number of cluster selection with elbow method).
+
+Assignment 5:
+ Hands-on on dimensionality reduction with PCA, LDA. Understand its significance by applying KMeans and SVM on transformed data to observe the accuracy.
