@@ -18,3 +18,6 @@ Assignment 4:
 
 Assignment 5:
  Hands-on on dimensionality reduction with PCA, LDA. Understand its significance by applying KMeans and SVM on transformed data to observe the accuracy.
+ 
+Assignment 6:
+ Hands-on on hierarchical clustering with various linkages on Principle components of CC dataset.
