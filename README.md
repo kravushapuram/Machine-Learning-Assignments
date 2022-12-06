@@ -21,3 +21,8 @@ Assignment 5:
  
 Assignment 6:
  Hands-on on hierarchical clustering with various linkages on Principle components of CC dataset.
+
+Final Project:
+ Predicting the age of abalone using machine learning models. Regression classification and ensemble models. Data imbalance and skewness.
+ 
+By Kavyasri Avushapram 700728990
